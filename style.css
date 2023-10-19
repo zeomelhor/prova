@@ -3,46 +3,35 @@ justify-content:center ;
 display: flex;
 }
 
-.imj{
-justify-content: center;
-display: flex;
-
-}
 
 
 .img{
-width: 250px;
+width: 500px;
 padding: 10px;
-
+margin-left: 400px;
 }
 
-.a{
-justify-content: center;
-display: flex;
-}
+
 
 .s{
-width: 250px;
+width: 500px;
 padding: 10px;
+margin-left: 400px;
 }
 
-.L{
-justify-content: center;
-display: flex;
-}
+
+
 
 .k{
-    width: 250px;
+    width: 500px;
     padding: 10px;
-    
+    margin-left: 400px;
 }
 
-.lm{
-    justify-content: center;
-    display: flex;
-}
+
 
 .u{
-    width: 250px;
+    width: 500px;
     padding: 10px;
+    margin-left: 400px;
 }
