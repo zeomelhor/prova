@@ -1,3 +1,17 @@
+header{
+    background: url(Cover.png);
+    padding: 500px;
+}
+
+.ndd{
+    margin-top: 100px;
+    color: white;
+}
+
+
+
+
+
 .cabesalio{
 justify-content:center ;
 display: flex;
@@ -35,3 +49,4 @@ margin-left: 400px;
     padding: 10px;
     margin-left: 400px;
 }
+
